@@ -30,7 +30,7 @@ export const mockVideos: Video[] = [
   {
     id: '3',
     title: 'Epic Mountain Biking Adventure',
-    thumbnail: 'https://images.unsplash.com/photo-1544191696-102ad3c882c3',
+    thumbnail: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04',
     channel: {
       name: 'Adventure Sports',
       avatar: 'https://images.unsplash.com/photo-1570295999919-56ceb5ecca61',
