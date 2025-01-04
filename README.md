@@ -26,4 +26,10 @@ Follow these steps to set up and run the project locally:
 2. **Navigate into the project folder**:
    ```bash
    cd project
+3.**Install the required dependencies**:
+   ```bash
+   npm install
+4.**Run the development server**:
+  ```bash
+   npm run dev
 
