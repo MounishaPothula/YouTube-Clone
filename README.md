@@ -32,8 +32,8 @@ Follow these steps to set up and run the project locally:
 4. **Run the development server**:
   ```bash
    npm run dev
-
-Screenshot
+```
+## Screenshot
 Here’s a preview of the Home Page of the YouTube Clone:
 
 
