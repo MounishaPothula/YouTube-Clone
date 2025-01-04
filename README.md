@@ -35,6 +35,7 @@ Follow these steps to set up and run the project locally:
 ```
 ## Screenshot
 Here’s a preview of the Home Page of the YouTube Clone:
+![Home Page Screenshot](./screenshot.png)
 
 
 ## Contributing
