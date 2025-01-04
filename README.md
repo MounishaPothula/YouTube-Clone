@@ -37,13 +37,12 @@ Follow these steps to set up and run the project locally:
 Here’s a preview of the Home Page of the YouTube Clone:
 
 
-Contributing
+## Contributing
 Feel free to fork this repository, submit issues, or send pull requests. If you have any ideas for improvement, feel free to open an issue.
 
-Acknowledgments
+## Acknowledgments
 This project is inspired by YouTube’s layout and user experience.
 Special thanks to the React and Vite communities for providing excellent resources and tools.
-vbnet
-Copy code
+
 
 
