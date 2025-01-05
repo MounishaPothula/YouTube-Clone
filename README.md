@@ -21,7 +21,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/MounishapothUla/YouTube-Clone.git
+   git clone https://github.com/MounishaPothula/YouTube-Clone.git
 
 2. **Navigate into the project folder**:
    ```bash
